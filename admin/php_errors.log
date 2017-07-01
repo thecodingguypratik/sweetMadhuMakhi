@@ -1,0 +1,888 @@
+[26-Jun-2017 23:24:56 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/connection/conn.php on line 8
+[26-Jun-2017 23:25:26 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/connection/conn.php on line 8
+[26-Jun-2017 23:26:46 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/connection/conn.php on line 8
+[26-Jun-2017 23:27:04 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/connection/conn.php on line 8
+[26-Jun-2017 23:27:28 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/connection/conn.php on line 8
+[26-Jun-2017 23:27:54 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/connection/conn.php on line 8
+[26-Jun-2017 23:36:07 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/connection/conn.php on line 8
+[26-Jun-2017 23:37:00 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/connection/conn.php on line 8
+[26-Jun-2017 23:37:22 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/connection/conn.php on line 8
+[26-Jun-2017 23:37:50 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/connection/conn.php on line 8
+[26-Jun-2017 23:38:04 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/connection/conn.php on line 8
+[26-Jun-2017 23:39:15 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/connection/conn.php on line 8
+[26-Jun-2017 23:39:35 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/connection/conn.php on line 8
+[26-Jun-2017 23:39:36 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /var/www/honeybee/admin/index.php on line 14
+[26-Jun-2017 23:39:36 Asia/Calcutta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /var/www/honeybee/admin/index.php on line 15
+[26-Jun-2017 23:39:36 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /var/www/honeybee/admin/index.php on line 16
+[26-Jun-2017 23:43:07 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/connection/conn.php on line 8
+[26-Jun-2017 23:43:22 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/connection/conn.php on line 8
+[26-Jun-2017 23:43:48 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/connection/conn.php on line 8
+[26-Jun-2017 23:44:26 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/connection/conn.php on line 8
+[26-Jun-2017 23:44:38 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/connection/conn.php on line 8
+[26-Jun-2017 23:45:24 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/connection/conn.php on line 8
+[26-Jun-2017 23:47:47 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/connection/conn.php on line 8
+[26-Jun-2017 23:48:03 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/connection/conn.php on line 8
+[26-Jun-2017 23:48:39 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/connection/conn.php on line 8
+[26-Jun-2017 23:48:51 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/connection/conn.php on line 8
+[26-Jun-2017 23:49:31 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/connection/conn.php on line 8
+[26-Jun-2017 23:49:32 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /var/www/honeybee/admin/index.php on line 14
+[26-Jun-2017 23:49:32 Asia/Calcutta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /var/www/honeybee/admin/index.php on line 16
+[26-Jun-2017 23:49:32 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /var/www/honeybee/admin/index.php on line 18
+[26-Jun-2017 23:49:51 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/connection/conn.php on line 8
+[26-Jun-2017 23:49:53 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /var/www/honeybee/admin/index.php on line 14
+[26-Jun-2017 23:49:53 Asia/Calcutta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /var/www/honeybee/admin/index.php on line 16
+[26-Jun-2017 23:49:53 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /var/www/honeybee/admin/index.php on line 18
+[26-Jun-2017 23:51:05 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /var/www/honeybee/admin/index.php on line 14
+[26-Jun-2017 23:51:05 Asia/Calcutta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /var/www/honeybee/admin/index.php on line 16
+[26-Jun-2017 23:51:05 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /var/www/honeybee/admin/index.php on line 18
+[26-Jun-2017 23:51:15 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /var/www/honeybee/admin/index.php on line 14
+[26-Jun-2017 23:51:15 Asia/Calcutta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /var/www/honeybee/admin/index.php on line 16
+[26-Jun-2017 23:51:15 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /var/www/honeybee/admin/index.php on line 18
+[26-Jun-2017 23:51:59 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/index.php on line 14
+[26-Jun-2017 23:51:59 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/index.php on line 14
+[26-Jun-2017 23:51:59 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/index.php on line 14
+[26-Jun-2017 23:51:59 Asia/Calcutta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/index.php on line 16
+[26-Jun-2017 23:52:08 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/index.php on line 14
+[26-Jun-2017 23:52:08 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/index.php on line 14
+[26-Jun-2017 23:52:08 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/index.php on line 14
+[26-Jun-2017 23:52:55 Asia/Calcutta] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/connection/conn.php on line 26
+[26-Jun-2017 23:53:32 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /var/www/honeybee/admin/index.php on line 14
+[26-Jun-2017 23:53:45 Asia/Calcutta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /var/www/honeybee/admin/index.php on line 14
+[26-Jun-2017 23:53:59 Asia/Calcutta] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /var/www/honeybee/admin/index.php on line 14
+[26-Jun-2017 23:55:09 Asia/Calcutta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/index.php on line 16
+[26-Jun-2017 23:55:09 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/index.php on line 17
+[26-Jun-2017 23:55:22 Asia/Calcutta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/index.php on line 16
+[26-Jun-2017 23:55:22 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /var/www/honeybee/admin/index.php on line 17
+[26-Jun-2017 23:55:38 Asia/Calcutta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/index.php on line 16
+[26-Jun-2017 23:55:38 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /var/www/honeybee/admin/index.php on line 17
+[26-Jun-2017 23:55:41 Asia/Calcutta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/index.php on line 16
+[26-Jun-2017 23:55:41 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /var/www/honeybee/admin/index.php on line 17
+[26-Jun-2017 23:56:15 Asia/Calcutta] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 2 given in /var/www/honeybee/admin/index.php on line 16
+[26-Jun-2017 23:57:17 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /var/www/honeybee/admin/index.php on line 18
+[26-Jun-2017 23:59:02 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/categories.php on line 32
+[26-Jun-2017 23:59:02 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/categories.php on line 32
+[26-Jun-2017 23:59:02 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/categories.php on line 32
+[26-Jun-2017 23:59:02 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/categories.php on line 33
+[27-Jun-2017 00:00:00 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 33
+[27-Jun-2017 00:00:00 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 33
+[27-Jun-2017 00:00:00 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 33
+[27-Jun-2017 00:00:00 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 34
+[27-Jun-2017 00:00:06 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/categories.php on line 32
+[27-Jun-2017 00:00:06 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/categories.php on line 32
+[27-Jun-2017 00:00:06 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/categories.php on line 32
+[27-Jun-2017 00:00:06 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/categories.php on line 33
+[27-Jun-2017 00:00:08 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 33
+[27-Jun-2017 00:00:08 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 33
+[27-Jun-2017 00:00:08 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 33
+[27-Jun-2017 00:00:08 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 34
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:40 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:02:41 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:19 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /var/www/honeybee/admin/sub-categories.php on line 34
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-categories.php on line 37
+[27-Jun-2017 00:04:28 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:04:56 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /var/www/honeybee/admin/sub-categories.php on line 38
+[27-Jun-2017 00:05:50 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/categories.php on line 32
+[27-Jun-2017 00:05:50 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/categories.php on line 32
+[27-Jun-2017 00:05:50 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/categories.php on line 32
+[27-Jun-2017 00:05:50 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/categories.php on line 33
+[27-Jun-2017 00:06:32 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/sub-sub-categories.php on line 44
+[27-Jun-2017 00:06:32 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/sub-sub-categories.php on line 44
+[27-Jun-2017 00:06:32 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/sub-sub-categories.php on line 44
+[27-Jun-2017 00:06:32 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/sub-sub-categories.php on line 45
+[27-Jun-2017 00:08:48 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/products.php on line 37
+[27-Jun-2017 00:08:48 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/products.php on line 37
+[27-Jun-2017 00:08:48 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/products.php on line 37
+[27-Jun-2017 00:08:48 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/products.php on line 38
+[27-Jun-2017 00:10:27 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/products_season.php on line 37
+[27-Jun-2017 00:10:27 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/products_season.php on line 37
+[27-Jun-2017 00:10:27 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/products_season.php on line 37
+[27-Jun-2017 00:10:27 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/products_season.php on line 38
+[27-Jun-2017 00:10:54 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/orders.php on line 226
+[27-Jun-2017 00:10:54 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/orders.php on line 226
+[27-Jun-2017 00:10:54 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/orders.php on line 226
+[27-Jun-2017 00:10:54 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/orders.php on line 227
+[27-Jun-2017 00:11:53 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/banners.php on line 35
+[27-Jun-2017 00:11:53 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/banners.php on line 35
+[27-Jun-2017 00:11:53 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/banners.php on line 35
+[27-Jun-2017 00:11:53 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/banners.php on line 36
+[27-Jun-2017 00:13:04 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/adds.php on line 33
+[27-Jun-2017 00:13:04 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/adds.php on line 33
+[27-Jun-2017 00:13:04 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/adds.php on line 33
+[27-Jun-2017 00:13:04 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/adds.php on line 34
+[27-Jun-2017 00:14:21 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/contacts.php on line 33
+[27-Jun-2017 00:14:21 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/contacts.php on line 33
+[27-Jun-2017 00:14:21 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/contacts.php on line 33
+[27-Jun-2017 00:14:21 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/contacts.php on line 34
+[27-Jun-2017 00:16:17 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/update-category.php on line 9
+[27-Jun-2017 00:16:17 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/update-category.php on line 9
+[27-Jun-2017 00:16:17 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/update-category.php on line 9
+[27-Jun-2017 00:16:17 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/update-category.php on line 10
+[27-Jun-2017 10:13:36 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/invoice.php on line 10
+[27-Jun-2017 10:13:36 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/invoice.php on line 10
+[27-Jun-2017 10:13:36 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/invoice.php on line 10
+[27-Jun-2017 10:13:36 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/invoice.php on line 11
+[27-Jun-2017 10:13:36 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/invoice.php on line 26
+[27-Jun-2017 10:13:36 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/invoice.php on line 26
+[27-Jun-2017 10:13:36 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/invoice.php on line 26
+[27-Jun-2017 10:13:36 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/invoice.php on line 26
+[27-Jun-2017 10:13:36 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/invoice.php on line 27
+[27-Jun-2017 10:13:36 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/invoice.php on line 27
+[27-Jun-2017 10:13:36 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/invoice.php on line 27
+[27-Jun-2017 10:13:36 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/invoice.php on line 27
+[27-Jun-2017 10:13:36 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/invoice.php on line 64
+[27-Jun-2017 10:13:36 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/invoice.php on line 64
+[27-Jun-2017 10:13:36 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/invoice.php on line 64
+[27-Jun-2017 10:13:36 Asia/Calcutta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/invoice.php on line 65
+[27-Jun-2017 10:13:36 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/invoice.php on line 66
+[27-Jun-2017 10:14:48 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/invoice.php on line 10
+[27-Jun-2017 10:14:48 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/invoice.php on line 10
+[27-Jun-2017 10:14:48 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/invoice.php on line 10
+[27-Jun-2017 10:14:48 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/invoice.php on line 11
+[27-Jun-2017 10:17:12 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/update-product.php on line 8
+[27-Jun-2017 10:17:12 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/update-product.php on line 8
+[27-Jun-2017 10:17:12 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/update-product.php on line 8
+[27-Jun-2017 10:17:12 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/update-product.php on line 9
+[27-Jun-2017 10:17:12 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/update-product.php on line 656
+[27-Jun-2017 10:17:12 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/update-product.php on line 656
+[27-Jun-2017 10:17:12 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/update-product.php on line 656
+[27-Jun-2017 10:17:12 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/update-product.php on line 657
+[27-Jun-2017 10:17:12 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/update-product.php on line 670
+[27-Jun-2017 10:17:12 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/update-product.php on line 670
+[27-Jun-2017 10:17:12 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/update-product.php on line 670
+[27-Jun-2017 10:17:12 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/update-product.php on line 671
+[27-Jun-2017 10:17:12 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/update-product.php on line 684
+[27-Jun-2017 10:17:12 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/update-product.php on line 684
+[27-Jun-2017 10:17:12 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/update-product.php on line 684
+[27-Jun-2017 10:17:12 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/update-product.php on line 685
+[27-Jun-2017 10:20:11 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/update-banner.php on line 9
+[27-Jun-2017 10:20:11 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/update-banner.php on line 9
+[27-Jun-2017 10:20:11 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/update-banner.php on line 9
+[27-Jun-2017 10:20:11 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/update-banner.php on line 10
+[27-Jun-2017 10:21:17 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/update-adds.php on line 9
+[27-Jun-2017 10:21:17 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/update-adds.php on line 9
+[27-Jun-2017 10:21:17 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/update-adds.php on line 9
+[27-Jun-2017 10:21:17 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/update-adds.php on line 10
+[29-Jun-2017 23:39:39 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/honeybee/admin/categories.php on line 33
+[29-Jun-2017 23:42:50 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/honeybee/admin/categories.php on line 33
+[29-Jun-2017 23:42:57 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/honeybee/admin/sub-categories.php on line 34
+[29-Jun-2017 23:42:58 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/honeybee/admin/categories.php on line 33
+[29-Jun-2017 23:43:01 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/honeybee/admin/products.php on line 38
+[29-Jun-2017 23:43:04 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/honeybee/admin/sub-sub-categories.php on line 45
+[29-Jun-2017 23:43:07 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /var/www/honeybee/admin/sub-categories.php on line 34
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/honeybee/admin/update-product.php on line 419
+[30-Jun-2017 00:03:09 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/honeybee/admin/update-product.php:419) in /var/www/honeybee/admin/update-product.php on line 421
+[02-Jul-2017 00:57:55 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/delete-sub-category.php on line 5
+[02-Jul-2017 00:57:55 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/delete-sub-category.php on line 5
+[02-Jul-2017 00:57:55 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/delete-sub-category.php on line 5
+[02-Jul-2017 00:59:29 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/add-sub-sub-category.php on line 66
+[02-Jul-2017 00:59:29 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/add-sub-sub-category.php on line 66
+[02-Jul-2017 00:59:29 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/add-sub-sub-category.php on line 66
+[02-Jul-2017 00:59:29 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/add-sub-sub-category.php on line 67
+[02-Jul-2017 01:01:13 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/add-sub-sub-category.php on line 66
+[02-Jul-2017 01:01:13 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/add-sub-sub-category.php on line 66
+[02-Jul-2017 01:01:13 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/add-sub-sub-category.php on line 66
+[02-Jul-2017 01:01:13 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/add-sub-sub-category.php on line 67
+[02-Jul-2017 01:01:36 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/add-sub-category.php on line 58
+[02-Jul-2017 01:01:36 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/add-sub-category.php on line 58
+[02-Jul-2017 01:01:36 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/add-sub-category.php on line 58
+[02-Jul-2017 01:01:36 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/add-sub-category.php on line 59
+[02-Jul-2017 01:03:58 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/findsubcategory.php on line 5
+[02-Jul-2017 01:03:58 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/findsubcategory.php on line 5
+[02-Jul-2017 01:03:58 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/findsubcategory.php on line 5
+[02-Jul-2017 01:03:58 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/findsubcategory.php on line 8
+[02-Jul-2017 01:03:58 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/findsubcategory.php on line 5
+[02-Jul-2017 01:03:58 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/findsubcategory.php on line 5
+[02-Jul-2017 01:03:58 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/findsubcategory.php on line 5
+[02-Jul-2017 01:03:58 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/findsubcategory.php on line 8
+[02-Jul-2017 01:06:33 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/delete-sub-sub-category.php on line 5
+[02-Jul-2017 01:06:33 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/delete-sub-sub-category.php on line 5
+[02-Jul-2017 01:06:33 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/delete-sub-sub-category.php on line 5
+[02-Jul-2017 02:22:23 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/update-order.php on line 9
+[02-Jul-2017 02:22:23 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/update-order.php on line 9
+[02-Jul-2017 02:22:23 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/update-order.php on line 9
+[02-Jul-2017 02:22:23 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/update-order.php on line 10
+[02-Jul-2017 02:22:23 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/update-order.php on line 12
+[02-Jul-2017 02:22:23 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/update-order.php on line 12
+[02-Jul-2017 02:22:23 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/update-order.php on line 12
+[02-Jul-2017 02:22:23 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/update-order.php on line 13
+[02-Jul-2017 02:22:23 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /var/www/honeybee/admin/update-order.php on line 96
+[02-Jul-2017 02:22:23 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/honeybee/admin/update-order.php on line 96
+[02-Jul-2017 02:22:23 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /var/www/honeybee/admin/update-order.php on line 96
+[02-Jul-2017 02:22:23 Asia/Calcutta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/update-order.php on line 97
+[02-Jul-2017 02:22:23 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /var/www/honeybee/admin/update-order.php on line 98
